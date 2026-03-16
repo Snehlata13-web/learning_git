@@ -17,3 +17,7 @@ function newfeatureadd()  {
 function oldfeature() {
     console.log("This is an old feature.");
 }
+
+function againnewfeture() {
+    console.log("This is again a new feature.");
+}
