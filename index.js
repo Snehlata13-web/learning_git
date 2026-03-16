@@ -24,6 +24,7 @@ function againnewfeture() {
 function againnewfeture() {
     console.log("This is again a new feature.");
     console.log("This is again a new feature B");
+    console.log("This is again a new feature C");
 }
 
 
