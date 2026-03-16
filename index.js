@@ -13,3 +13,7 @@ function anotherfn() {
 function newfeatureadd()  {
     console.log("This is a new feature added.");
 }
+
+function oldfeature() {
+    console.log("This is an old feature.");
+}
