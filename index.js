@@ -5,3 +5,9 @@ function newfn() {
 function oldfn() {
     console.log("This is an old function.");
 }
+
+function anotherfn() {
+    console.log("This is another function.");
+}
+
+
